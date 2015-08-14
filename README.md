@@ -1,6 +1,14 @@
 ## Vacancies
 
-todo
+### company_name
+
+#### position_title
+
+position_description
+
+Programming languages and frameworks used: Ruby on Rails, PHP, Java.
+
+Contact: E-mail address, URL, or Facebook Profile etc.
 
 ## About
 
